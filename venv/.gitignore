@@ -8,19 +8,17 @@ __pycache__/
 
 # ============================
 # Virtual Environment
-# ============================
+# ===========================
 venv/
 env/
 .venv/
 
-# ============================
-# Django Stuff
-# ============================
-db.sqlite3
-media/
-staticfiles/
-*.sqlite3
+# Python
+__pycache__/
+*.pyc
 
+# Django
+db.sqlite3
 # ============================
 # Environment Variables
 # ============================
